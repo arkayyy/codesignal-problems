@@ -1,6 +1,6 @@
 # codesignal-problems
 
-![img_4286a-350x233](https://ipfs.infura.io/ipfs/QmTEmpB6CfazaaK4mXT5F5mxobePm9jDReNN11VYMgDa7p)
+![img_4286a-350x233](https://ipfs.infura.io/ipfs/QmQfCdXfXwZ82ft96Ds1LsBiq9f893tTGDWBdS8skMFXyF)
 
 This repo contains the solutions and explanations to problems in CodeSignal (https://codesignal.com) which is a leading coding assessment site.
 
